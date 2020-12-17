@@ -1,0 +1,1 @@
+pyinstaller -D -w -i adb.ico -p C:\Windows\System32\downlevels     打包的命令加上C盘这个
