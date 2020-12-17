@@ -1,1 +1,2 @@
-pyinstaller -D -w -i adb.ico -p C:\Windows\System32\downlevels     打包的命令加上C盘这个
+pyinstaller -D -w  dadianclient.py
+还得把config.ini考到dist中
